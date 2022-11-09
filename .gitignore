@@ -1,0 +1,5 @@
+# Visual Studio Code Settings
+.vscode
+
+# Node Modules
+node_modules
