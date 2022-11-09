@@ -2,6 +2,7 @@ export type Sizes =
   | 'nano'
   | 'mini'
   | 'small'
+  | 'moderate'
   | 'medium'
   | 'large'
   | 'wide'

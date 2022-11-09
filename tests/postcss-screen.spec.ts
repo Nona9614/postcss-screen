@@ -35,9 +35,10 @@ describe("Default Values Testing", () => {
       query: "max-width",
       params: "",
       sizes: {
-        jumbo: 2000,
-        wide: 1700,
-        large: 1400,
+        jumbo: 2200,
+        wide: 2000,
+        large: 1700,
+        moderate: 1450,
         medium: 1200,
         small: 980,
         mini: 670,
@@ -52,9 +53,10 @@ describe("Default Values Testing", () => {
       query: "max-width",
       params: "screen and",
       sizes: {
-        jumbo: 2000,
-        wide: 1700,
-        large: 1400,
+        jumbo: 2200,
+        wide: 2000,
+        large: 1700,
+        moderate: 1450,
         medium: 1200,
         small: 1000, // Modified
         mini: 670,

@@ -29,17 +29,18 @@ npm install postcss postcss-screen
 
 About
 ----------------
-This plugin has 7 standard screen sizes for the HTML to react with CSS, where each one will replace a custom [at rule](https://developer.mozilla.org/en-US/docs/Web/CSS/At-rule) with a supported media query.
+This plugin has 8 standard screen sizes for the HTML to react with CSS, where each one will replace a custom [at rule](https://developer.mozilla.org/en-US/docs/Web/CSS/At-rule) with a supported media query.
 
-| Size   | Width   |
-|--------|---------|
-| jumbo  | 2000px  |
-| wide   | 1700px  |
-| large  | 1400px  |
-| medium | 1200px  |
-| small  | 980px   |
-| mini   | 670px   |
-| nano   | 450px   |
+| Size     | Width  |
+|----------|--------|
+| jumbo    | 2200px |
+| wide     | 2000px |
+| large    | 1700px |
+| moderate | 1450px |
+| medium   | 1200px |
+| small    | 980px  |
+| mini     | 670px  |
+| nano     | 450px  |
 
 Options
 --------------------------------

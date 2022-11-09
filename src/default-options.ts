@@ -4,9 +4,10 @@ import { MediaQueries, PostcssScreenPluginOptions, RequiredPostcssScreenPluginOp
 export function defaultOptions<W extends Width>() {
     return {
         sizes: {
-            jumbo: 2000,
-            wide: 1700,
-            large: 1400,
+            jumbo: 2200,
+            wide: 2000,
+            large: 1700,
+            moderate: 1450,
             medium: 1200,
             small: 980,
             mini: 670,
