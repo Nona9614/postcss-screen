@@ -1,6 +1,6 @@
 {
   "name": "postcss-screen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sugar syntax for screen sizes",
   "main": "postcss-screen.js",
   "types": "postcss-screen.d.ts",
